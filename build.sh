@@ -1,0 +1,1 @@
+docker build -f Dockerfile --tag bazarai:0.0 . 

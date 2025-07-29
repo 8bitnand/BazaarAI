@@ -1,0 +1,8 @@
+bsedata==0.6.0
+transformers
+torch
+streamlit
+rapidfuzz
+langchain-community
+accelerate
+langchain-huggingface

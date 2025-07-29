@@ -1,0 +1,4 @@
+**/__pycache__
+src/models
+src/db
+stk.json
