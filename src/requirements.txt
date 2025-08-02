@@ -6,3 +6,5 @@ rapidfuzz
 langchain-community
 accelerate
 langchain-huggingface
+langgraph
+gradio
